@@ -1,0 +1,23 @@
+{
+  "pins" : [
+    {
+      "identity" : "swiftui-flows",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/lonkly/SwiftUI-Flows",
+      "state" : {
+        "branch" : "main",
+        "revision" : "06f0f589029edf4171d7d457f61b57cd69748490"
+      }
+    },
+    {
+      "identity" : "swiftui-introspect",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/siteline/SwiftUI-Introspect",
+      "state" : {
+        "revision" : "121c146fe591b1320238d054ae35c81ffa45f45a",
+        "version" : "0.12.0"
+      }
+    }
+  ],
+  "version" : 2
+}
